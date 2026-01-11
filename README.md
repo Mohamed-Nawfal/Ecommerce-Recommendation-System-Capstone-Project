@@ -51,9 +51,9 @@ The Power BI dashboard provides three key views:
    Navigate to
    http://127.0.01.:8000/recommend/78517 in your browser.
 
-##🧠 Technical Methodology
-**Data Sparsity: Addressed 99.97% empty matrix using SVD latent factors.
-**Scaling: Normalization of Income and Age for model training.
-**Serialization: Used Pickle to bundle the SVD matrices and similarity maps for lightweight deployment.
+## 🧠 Technical Methodology
+**Data Sparsity:** Addressed 99.97% empty matrix using SVD latent factors.
+**Scaling:** Normalization of Income and Age for model training.
+**Serialization:** Used Pickle to bundle the SVD matrices and similarity maps for lightweight deployment.
 
 Author: [Mohamed Nawfal M]
