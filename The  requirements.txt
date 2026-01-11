@@ -1,0 +1,7 @@
+```text
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+pickle-mixin
